@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-qap-quadratic-arithmetic-program-groth16-skill"
+version = "1.0.0"
+description = "Quadratic Arithmetic Program (QAP) reduction transforming R1CS constraints into polynomial divisibility statements"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
