@@ -1,0 +1,20 @@
+{
+  "name": "genpark-qap-quadratic-arithmetic-program-groth16-skill",
+  "version": "1.0.0",
+  "description": "Quadratic Arithmetic Program (QAP) reduction transforming R1CS constraints into polynomial divisibility statements",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "qap",
+    "groth16",
+    "quadratic-arithmetic-program",
+    "r1cs",
+    "zero-knowledge",
+    "python-standard-library",
+    "agent-skills",
+    "zk-snark",
+    "cryptography",
+    "polynomial-divisibility"
+  ]
+}
